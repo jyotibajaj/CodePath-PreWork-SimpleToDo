@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:displayOptions">showHome|useLogo</item>
+        <!-- Support library compatibility -->
+        <item name="displayOptions">showHome|useLogo</item>
+        <item name="android:icon">@drawable/check</item>
+
+    </style>
+
+</resources>
