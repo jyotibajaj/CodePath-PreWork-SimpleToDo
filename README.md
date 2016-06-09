@@ -20,6 +20,6 @@ Here's a walkthrough of implemented user stories:
 
 
 
-![Video Walkthrough](https://cloud.githubusercontent.com/assets/2444253/15934359/20033858-2e18-11e6-905d-02e83aad8447.gif)
+![Video Walkthrough](https://cloud.githubusercontent.com/assets/2444253/15934701/5c0b555a-2e19-11e6-83fd-c6160da822a9.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
